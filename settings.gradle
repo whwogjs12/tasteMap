@@ -1,0 +1,2 @@
+rootProject.name='tastemap'
+include ':app'
